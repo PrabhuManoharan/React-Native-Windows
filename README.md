@@ -1,4 +1,4 @@
-# React Native Windows Environment Setup
+# React Native Windows Environment Setup (Typescript)
 
 **Onetime Setup**
 
